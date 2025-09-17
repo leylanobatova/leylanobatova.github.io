@@ -14,6 +14,8 @@ My practice combines acrylics, mixed media, and Japanese ink overlays to create 
 I am based in San Francisco and currently preparing works for collectors, open calls, and residencies.
 
 ---
+![alt-tag](https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/Leyla_Nobatova_AI_vs_Human.jpg)
+---
 
 ## Portfolio Structure
 - **Home** – LN logo, name, and tagline.  
