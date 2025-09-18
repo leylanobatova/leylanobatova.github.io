@@ -16,7 +16,7 @@ I am currently preparing works for collectors, open calls, and residencies.
 ## Selected Works
 
 ### Triangles  
-**14" × 11" – Acrylic on canvas, Acrylic marker – $300**  
+**14" × 11" – Acrylic on canvas, Acrylic marker**  
 My fascination with simple geometry and the way triangulations mirror the structures and decisions of our lives.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Triangles.jpg">
@@ -36,7 +36,7 @@ Life passes quickly, and we only witness a handful of sunrises in a lifetime. Th
 ---
 
 ### Mind Spiral  
-**14" × 11" – Acrylic on canvas – $600**  
+**14" × 11" – Acrylic on canvas**  
 An exploration of introspection and the depth of human psychology, visualized as a spiral into the self.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg">
@@ -56,7 +56,7 @@ A spiritual farewell, representing transformation and the release of people, ani
 ---
 
 ### AI vs Human  
-**14" × 11" – Mixed media – $1700**  
+**14" × 11" – Mixed media**  
 “AI, AI… How about Human rights?!” A work questioning technology’s impact on humanity.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg">
@@ -66,7 +66,7 @@ A spiritual farewell, representing transformation and the release of people, ani
 ---
 
 ### Poppies  
-**12" × 12" – Acrylic on board – $500**  
+**12" × 12" – Acrylic on board**  
 A study in stillness and movement. Inspired by the poppy fields of Turkmenistan, the piece reflects dynamic life hidden within simplicity.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Poppies.jpg">
@@ -76,7 +76,7 @@ A study in stillness and movement. Inspired by the poppy fields of Turkmenistan,
 ---
 
 ### Kites on Fire  
-**A5 – Japanese ink, Watercolor marker, Pencil on mixed media paper – $260**  
+**A5 – Japanese ink, Watercolor marker, Pencil on mixed media paper**  
 Abstract and expressive, this work captures the energy, flirtation, and lightness of kites in flight.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_KitesOnFire_2025.jpg">
@@ -86,7 +86,7 @@ Abstract and expressive, this work captures the energy, flirtation, and lightnes
 ---
 
 ### The Alamo Dream  
-**A5 – Watercolor, Japanese ink, Pencil, Pen on mixed media paper – $260**  
+**A5 – Watercolor, Japanese ink, Pencil, Pen on mixed media paper**  
 A dreamlike vision of San Francisco’s Alamo Square, merging place with joy and the endless feeling of summer.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_TheAlamoDream_2025.jpg">
@@ -96,7 +96,7 @@ A dreamlike vision of San Francisco’s Alamo Square, merging place with joy and
 ---
 
 ### When the City Said STOP  
-**A5 – Japanese ink, Pencil, Pen on mixed media paper – $260**  
+**A5 – Japanese ink, Pencil, Pen on mixed media paper**  
 Minimal yet powerful—an exploration of two colors, simplicity, movement, and the city’s voice when it demands pause.  
 
 <a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_WhenTheCitySaidStop_2025.jpg">
