@@ -1,5 +1,11 @@
 # Leyla Nobatova – Artist Portfolio
 
+This repository contains the source code for my official artist portfolio, published at:
+
+👉 [https://leylanobatova.github.io](https://leylanobatova.github.io)
+
+---
+
 ## About Me
 I am **Leyla Nobatova**, a visual artist exploring the intersection of **geometry, color, and narrative**.  
 
@@ -17,7 +23,9 @@ I am currently preparing works for collectors, open calls, and residencies.
 **14" × 11" – Acrylic on canvas, Acrylic marker – $300**  
 My fascination with simple geometry and the way triangulations mirror the structures and decisions of our lives.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Triangles.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Triangles.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Triangles.jpg" alt="Triangles" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -25,7 +33,9 @@ My fascination with simple geometry and the way triangulations mirror the struct
 **Round, diameter 20" – Acrylic on canvas, Acrylic marker – Not for sale**  
 Life passes quickly, and we only witness a handful of sunrises in a lifetime. This piece is a reminder to enjoy the moment. *(Inspired by a sunrise I witnessed at Burning Man.)*  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.png">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.png">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.png" alt="FOMO" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -33,7 +43,9 @@ Life passes quickly, and we only witness a handful of sunrises in a lifetime. Th
 **14" × 11" – Acrylic on canvas – $600**  
 An exploration of introspection and the depth of human psychology, visualized as a spiral into the self.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg" alt="Mind Spiral" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -41,7 +53,9 @@ An exploration of introspection and the depth of human psychology, visualized as
 **14" × 11" – Acrylic on canvas – Not for sale**  
 A spiritual farewell, representing transformation and the release of people, animals, and experiences we carry with us.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Ascend.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Ascend.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Ascend.jpg" alt="Ascend" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -49,7 +63,9 @@ A spiritual farewell, representing transformation and the release of people, ani
 **14" × 11" – Mixed media – $1700**  
 “AI, AI… How about Human rights?!” A work questioning technology’s impact on humanity.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg" alt="AI vs Human" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -57,7 +73,9 @@ A spiritual farewell, representing transformation and the release of people, ani
 **12" × 12" – Acrylic on board – $500**  
 A study in stillness and movement. Inspired by the poppy fields of Turkmenistan, the piece reflects dynamic life hidden within simplicity.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Poppies.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Poppies.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Poppies.jpg" alt="Poppies" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -65,7 +83,9 @@ A study in stillness and movement. Inspired by the poppy fields of Turkmenistan,
 **A5 – Japanese ink, Watercolor marker, Pencil on mixed media paper – $260**  
 Abstract and expressive, this work captures the energy, flirtation, and lightness of kites in flight.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_KitesOnFire_2025.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_KitesOnFire_2025.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_KitesOnFire_2025.jpg" alt="Kites on Fire" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -73,7 +93,9 @@ Abstract and expressive, this work captures the energy, flirtation, and lightnes
 **A5 – Watercolor, Japanese ink, Pencil, Pen on mixed media paper – $260**  
 A dreamlike vision of San Francisco’s Alamo Square, merging place with joy and the endless feeling of summer.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_TheAlamoDream_2025.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_TheAlamoDream_2025.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_TheAlamoDream_2025.jpg" alt="The Alamo Dream" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
@@ -81,7 +103,9 @@ A dreamlike vision of San Francisco’s Alamo Square, merging place with joy and
 **A5 – Japanese ink, Pencil, Pen on mixed media paper – $260**  
 Minimal yet powerful—an exploration of two colors, simplicity, movement, and the city’s voice when it demands pause.  
 
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_WhenTheCitySaidStop_2025.jpg">
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_WhenTheCitySaidStop_2025.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_WhenTheCitySaidStop_2025.jpg" alt="When the City Said STOP" width="680" style="max-width:100%; height:auto; border-radius:8px;" loading="lazy">
+</a>
 
 ---
 
