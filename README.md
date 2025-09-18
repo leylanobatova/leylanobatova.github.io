@@ -14,7 +14,7 @@ My practice combines acrylics, mixed media, and Japanese ink overlays to create 
 I am based in San Francisco and currently preparing works for collectors, open calls, and residencies.
 
 ---
-<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.png">
 <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg">
 <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Ascend.jpg">
 <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg">
