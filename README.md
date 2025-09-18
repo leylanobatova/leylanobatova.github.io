@@ -1,9 +1,5 @@
 # Leyla Nobatova – Artist Portfolio
 
-This repository contains the source code for my official artist portfolio, published at:
-
-👉 [https://leylanobatova.github.io](https://leylanobatova.github.io)
-
 ---
 
 ## About Me
