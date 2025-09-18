@@ -14,16 +14,15 @@ My practice combines acrylics, mixed media, and Japanese ink overlays to create 
 I am based in San Francisco and currently preparing works for collectors, open calls, and residencies.
 
 ---
-![alt-tag](https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg)
----
-
-## Portfolio Structure
-- **Home** – LN logo, name, and tagline.  
-- **Works** – Selected artworks with title, year, medium, and size.  
-- **About** – Artist bio & statement.  
-- **CV** – Education, exhibitions, residencies, and relevant experience.  
-- **Contact** – Collectors email, Instagram, TikTok.
-
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_FOMO.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_AI_vs_Human.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Ascend.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Mind_Spiral.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Poppies.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Triangles.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_KitesOnFire_2025.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_TheAlamoDream_2025.jpg">
+<img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Nobatova_WhenTheCitySaidStop_2025.jpg">
 ---
 
 ## Contact
