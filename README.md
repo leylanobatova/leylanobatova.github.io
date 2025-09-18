@@ -105,6 +105,21 @@ Minimal yet powerful—an exploration of two colors, simplicity, movement, and t
 
 ---
 
+### Edith  
+**Digital artwork**  
+A contemporary digital composition exploring character, presence, and narrative through color and line. Unlike my traditional works on canvas or board, 
+*Edith* lives purely in the digital space, emphasizing how storytelling and emotion transcend medium.  
+
+<a href="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Edith.jpg">
+  <img src="https://raw.githubusercontent.com/leylanobatova/leylanobatova.github.io/refs/heads/main/images/Leyla_Nobatova_Edith.jpg" 
+       alt="Edith" 
+       width="680" 
+       style="max-width:100%; height:auto; border-radius:8px;" 
+       loading="lazy">
+</a>
+
+---
+
 ## Originals & Prints
 All works shown here are **originals**.  
 **Prints** will be available separately through my [Etsy shop](http://etsy.com/shop/ArtfulFormGallery).  
