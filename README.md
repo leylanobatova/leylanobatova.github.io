@@ -14,7 +14,7 @@ All works shown here are **originals**.
 ## Contact
 - **Email (Collectors):** leyla.nobatova.art@gmail.com  
 - **Instagram:** [@leyla_nobatova](https://instagram.com/leyla_nobatova)  
-- **TikTok:** [@leila.now](https://tiktok.com/@leila.now)
+- **TikTok:** [@leila.now](https://tiktok.com/@leyla_nobatova)
 
 
 
