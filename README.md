@@ -2,6 +2,24 @@
 
 ---
 
+## Originals & Prints
+All works shown here are **originals**.
+
+**Originals and Prints** available through [Etsy shop](http://etsy.com/shop/ArtfulFormGallery).
+
+**Email me for commissions** leyla.nobatova.art@gmail.com
+
+---
+
+## Contact
+- **Email (Collectors):** leyla.nobatova.art@gmail.com  
+- **Instagram:** [@leyla_nobatova](https://instagram.com/leyla_nobatova)  
+- **TikTok:** [@leila.now](https://tiktok.com/@leila.now)
+
+
+
+---
+
 ## About Me
 I am **Leyla Nobatova**, a visual artist exploring the intersection of **geometry, color, and narrative**.  
 
@@ -121,8 +139,11 @@ A contemporary digital composition exploring character, presence, and narrative 
 ---
 
 ## Originals & Prints
-All works shown here are **originals**.  
-**Prints** will be available separately through my [Etsy shop](http://etsy.com/shop/ArtfulFormGallery).  
+All works shown here are **originals**.
+
+**Originals and Prints** available through [Etsy shop](http://etsy.com/shop/ArtfulFormGallery).
+
+**Email me for commissions**
 
 ---
 
