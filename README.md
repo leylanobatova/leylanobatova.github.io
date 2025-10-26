@@ -131,4 +131,10 @@ All works shown here are **originals**.
 - **Instagram:** [@leyla_nobatova](https://instagram.com/leyla_nobatova)  
 - **TikTok:** [@leila.now](https://tiktok.com/@leila.now)
 
+
+
+---
+
+  © 2025 Leyla Nobatova. All rights reserved.
+
 ---
